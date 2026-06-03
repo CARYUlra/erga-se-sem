@@ -10,8 +10,6 @@
 - [Restrições e Objetivos](#-restrições-e-objetivos)
 - [Lista de Tarefas](#-lista-de-tarefas)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como Executar](#-como-executar)
-
 ---
 
 ## 📖 Sobre o Projeto
